@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+*.iml
+/.env
+/vendor/
+/config/amocrm_auth.php
+/config/amopro.php
+/logs/
+/.data/
+/.backup/
+/betonbsu_ru.rar
+/public_html/assets/video/
+/public_html/assets/price-bsu.pdf
+/config/amopro_data/
